@@ -1,4 +1,4 @@
-Just another About.me
+Just another website for Swaathi Kakarla (married to Karthik Kamalakannan)
 ========
 
 Runs on Jekyll with help from the [Hyde](https://github.com/poole/hyde) theme.
